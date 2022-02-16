@@ -1,0 +1,24 @@
+{
+  "name": "txbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gravxd/TxAdmin-Bot.git"
+  },
+  "author": "Grav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gravxd/TxAdmin-Bot/issues"
+  },
+  "homepage": "https://github.com/Gravxd/TxAdmin-Bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord-fivem-api": "^1.0.1",
+    "discord.js": "^11.6.4",
+    "node-fetch": "^2.6.1"
+  }
+}
